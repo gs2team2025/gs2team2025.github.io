@@ -1,0 +1,96 @@
+OMG3Q.json
+[
+    {
+        "question": "Lỗi game",
+        "answer": "Chủ Nhân vui lòng vào trang https://support.vnggames.com/ => chọn game OMG 3Q, sau đó đăng nhập => chọn mục báo lỗi sản phẩm và thao tác điền thông tin theo forms. Chủ Nhân cung cấp đầy đủ thông tin liên quan kèm hình ảnh (nếu có) để bộ phận kỹ thuật kiểm tra lại nhé."
+    },
+    {
+        "question": "Lỗi nạp",
+        "answer": "Chủ Nhân vui lòng vào trang https://support.vnggames.com/ => chọn game OMG 3Q, sau đó đăng nhập => chọn mục báo lỗi thanh toán và thao tác điền thông tin theo forms. Chủ Nhân cung cấp đầy đủ thông tin để bộ phận kỹ thuật kiểm tra lại nhé."
+    },
+    {
+        "question": "Nhận Code",
+        "answer": "Dạ nếu Chủ Nhân có tham gia sự kiện, có thực hiện đúng và đủ yêu cầu của sự kiện thì hiện Chủ Nhân vào web nhận code nhé https://event.zing.vn/omg/nhan-code"
+    },
+    {
+        "question": "Xin code tân thủ / code chung",
+        "answer": "Dạ Anh Nhi gửi code :DAILEQK2T9 - BIRTHDAY7Y - VIPOMG3Q24 - GIAPTHIN24 - VOSONGS700 - ANHNHIXINH - MUNGDAILE4. Chủ Nhân nhập code tại link https://giftcode.vnggames.com/vn/redeem/"
+    },
+    {
+        "question": "Tài khoản bị khóa",
+        "answer": "Dạ trường hợp khi đăng nhập quá nhiều tài khoản trên cùng 1 thiết bị, hệ thống sẽ khóa spam đăng nhập. Chủ Nhân vui lòng chờ sau 24h hệ thống sẽ tự mở khóa. Anh Nhi xin lỗi vì sự gián đoạn này."
+    },
+    {
+        "question": "Nhập code báo lỗi",
+        "answer": "Chủ Nhân ơi, mỗi code chung chỉ nhập 1 lần cho 1 tài khoản. Nếu đã nhập ở server cũ rồi sẽ không nhập ở server khác trên cùng 1 tài khoản nữa. Chủ Nhân dùng tài khoản mới để tạo nhân vật và nhập code lại nha."
+    },
+    {
+        "question": "Cách lấy UID tham gia sự kiện fanpage",
+        "answer": "Dạ ID Tài khoản của Chủ Nhân lấy tại https://support.vnggames.com. Lưu ý: ID Tài khoản sẽ khác với ID nhân vật trong game. Chủ Nhân có thể tham khảo cách lấy ID Tài khoản tại https://omg3q.vnggames.com/tin-tuc/tin-tuc/huong-dan-lay-thong-tin-id-tai-khoan.html."
+    },
+    {
+        "question": "Chiến trường hồn tướng ghép chênh lệch",
+        "answer": "Dạ hiện hệ thống sẽ ghép tính dựa trên lực chiến trung bình của toàn bang, bang có lực chiến ngang nhau sẽ ghép với nhau. Mong Chủ Nhân thông cảm ạ."
+    },
+    {
+        "question": "Lịch mở server",
+        "answer": "Dạ server mở cố định vào 8h sáng thứ 3 và thứ 7 hàng tuần, Chủ Nhân theo dõi thông báo tại fanpage nhé ạ."
+    },
+    {
+        "question": "Bảo vệ tài khoản chơi ngay",
+        "answer": "Trước lúc Chủ Nhân đăng nhập vào game sẽ có chữ Hỗ trợ màu cam, Chủ Nhân chọn vào hỗ trợ -> bảo vệ tài khoản chơi ngay -> nhập mail và Mật khẩu => chọn bảo vệ ạ."
+    },
+    {
+        "question": "Vé chợ",
+        "answer": "Dạ vé này dùng trong chợ đào viên nhé Chủ Nhân ơi."
+    },
+    {
+        "question": "Mèo thần tài",
+        "answer": "Dạ sau khi kết thúc 7 ngày đầu mở server mới có sự kiện, và sự kiện mở chung với các server cũ nhé ạ."
+    },
+    {
+        "question": "Bang liên server",
+        "answer": "Bang liên server sẽ mở khi đạt cấp 100 ạ."
+    },
+    {
+        "question": "Quân Đoàn",
+        "answer": "Quân đoàn cấp 30 sẽ mở ạ."
+    },
+    {
+        "question": "ĐỔI QUỐC GIA",
+        "answer": "Khi đổi quốc gia thần binh sẽ không đổi."
+    },
+    {
+        "question": "Nâng ám kim",
+        "answer": "Để nâng tướng ám kim, Chủ Nhân cần có tướng kim +16 ạ."
+    },
+    {
+        "question": "Mua lượt Tháp Ma Hồn",
+        "answer": "VIP 8."
+    },
+    {
+        "question": "Event chiêu mộ",
+        "answer": "Event chiêu mộ tướng chỉ diễn ra 7 ngày đầu mở server, sau 7 ngày sẽ mất."
+    },
+    {
+        "question": "Quà login server mới",
+        "answer": "Chỉ nhận được trong vòng 4 ngày đầu mở server."
+    },
+    {
+        "question": "Sách Mỹ Nhân",
+        "answer": "Lv120 mở."
+    },
+    {
+        "question": "Quà hồn thạch",
+        "answer": "Chủ Nhân vào Chiêu Mộ Hồn Thạch sẽ thấy sự kiện Quà Hồn Thạch ạ."
+    },
+    {
+        "question": "Gói tiếp tế chinh chiến",
+        "answer": "Dạ các gói này chỉ có thể nạp trực tiếp ingame thôi ạ."
+    },
+    {
+        "question": "Hỏi giới tính hoặc hỏi nhân viên là người hay máy",
+        "answer": "Anh Nhi là bạn đồng hành cùng Chủ Nhân ạ. Nếu Chủ Nhân có thắc mắc hay gặp vấn đề cần hỗ trợ thì liên hệ cho Anh Nhi nha."
+    }
+]
+Commit message
